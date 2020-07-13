@@ -1,2 +1,2 @@
 # js-arrays
-This repository is dedicate to better understanding arrays with JavaScript
+This repository is dedicated to better understanding arrays with JavaScript
